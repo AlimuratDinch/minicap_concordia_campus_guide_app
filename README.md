@@ -3,7 +3,7 @@
 ## Members
 Bulat Abdullin <br>
 Alimurat Dinchdonmez - 40245310 <br>
-Azmi <br>
+Azmi Abidi - 40248132 <br>
 Vito Rizzuto <br>
 Nikitarrias <br>
 Dima <br>
