@@ -5,7 +5,7 @@ Bulat Abdullin <br>
 Alimurat Dinchdonmez - 40245310 <br>
 Azmi <br>
 Vito Rizzuto <br>
-Nikitorrias <br>
+Nikitarrias <br>
 Dima <br>
 
 ## Project Design Ideas
