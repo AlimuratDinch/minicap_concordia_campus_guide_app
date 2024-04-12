@@ -20,3 +20,8 @@ Number 4 <br>
 Number 5 <br>
 ![s9](https://github.com/AlimuratDinch/minicap_ideas_organization/assets/132238708/c56b3d3a-0fc2-445a-92cd-169f8eb84b29)
 ![s10](https://github.com/AlimuratDinch/minicap_ideas_organization/assets/132238708/31f55183-73f6-45b9-81c0-8199b692b0b5)
+
+
+
+## Usefull links to learn MERN
+https://www.youtube.com/watch?v=-42K44A1oMA
