@@ -19,3 +19,4 @@ Number 4 <br>
 ![Screenshot_20240411_085651_Instagram](https://github.com/AlimuratDinch/minicap_ideas_organization/assets/132238708/41b38c8f-51d9-48b8-b1b9-9625cd86d45c)
 Number 5 <br>
 ![s9](https://github.com/AlimuratDinch/minicap_ideas_organization/assets/132238708/c56b3d3a-0fc2-445a-92cd-169f8eb84b29)
+![s10](https://github.com/AlimuratDinch/minicap_ideas_organization/assets/132238708/31f55183-73f6-45b9-81c0-8199b692b0b5)
