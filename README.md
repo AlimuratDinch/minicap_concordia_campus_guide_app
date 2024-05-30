@@ -25,3 +25,6 @@ Number 5 <br>
 
 ## Usefull links to learn MERN
 https://www.youtube.com/watch?v=-42K44A1oMA
+
+## Color Palette
+https://loading.io/color/feature/
