@@ -7,7 +7,7 @@ Azmi Abidi - 40248132 <br>
 Vito Rizzuto <br>
 Nikitarrias <br>
 Dima <br>
-Joseph <br>
+Joseph Aladas - 401565616 <br>
 
 ## Project Design Ideas
 Number 1 <br>
