@@ -9,6 +9,11 @@ Nikitarrias <br>
 Dima <br>
 Joseph Aladas - 40156616 <br>
 
+
+## Commit Messages
+![image](https://github.com/user-attachments/assets/ab366f4f-ca44-4287-983f-6e0c59fe7aa6)
+
+
 ## Project Design Ideas
 Number 1 <br>
 ![Screenshot_20240411_085628_Instagram](https://github.com/AlimuratDinch/minicap_ideas_organization/assets/132238708/76982b0d-108d-4163-885b-6db2e6973d88)
