@@ -8,7 +8,6 @@ Vito Rizzuto <br>
 Nektarios<br>
 Tima <br>
 Joseph Aladas - 40156616 <br>
-Nektarios Zampetoulakis <br>
 
 
 ## Commit Messages
