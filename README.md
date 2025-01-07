@@ -8,6 +8,8 @@ Vito Rizzuto <br>
 Nektarios<br>
 Tima <br>
 Joseph Aladas - 40156616 <br>
+Marc-Yves <br>
+Ryad Alla <br>
 
 
 ## Commit Messages
