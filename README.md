@@ -4,7 +4,6 @@
 Bulat Abdullin <br>
 Alimurat Dinchdonmez - 40245310 <br>
 Azmi Abidi - 40248132 <br>
-Vito Rizzuto <br>
 Nektarios<br>
 Tima <br>
 Joseph Aladas - 40156616 <br>
