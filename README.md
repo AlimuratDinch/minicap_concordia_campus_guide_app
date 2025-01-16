@@ -1,11 +1,20 @@
-# minicap_ideas_organization
+# Concordia Campus Guide App
+## prerequisites
+The following packaged with specified version should be installed: `node.js`, version:`v22.13.0`
+<br>
+You can install it following that link: https://nodejs.org/en
 
+## Installation
+### Changing the branch
+`git checkout develop`
+### Running the Up
+`npx expo start` or `npx expo start -c`. The second command will delete the cache
 ## Members
 Bulat Abdullin <br>
 Alimurat Dinchdonmez - 40245310 <br>
 Azmi Abidi - 40248132 <br>
 Nektarios<br>
-Tima <br>
+
 Joseph Aladas - 40156616 <br>
 Marc-Yves Malchev - 40265238 <br>
 Ryad Alla - 40227731<br>
