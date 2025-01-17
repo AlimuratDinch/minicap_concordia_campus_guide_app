@@ -10,7 +10,7 @@ You can install it following that link: https://nodejs.org/en
 ### Running the Up
 `npx expo start` or `npx expo start -c`. The second command will delete the cache
 ## Members
-Bulat Abdullin <br>
+Bulat Abdullin - 40264963 <br>
 Alimurat Dinchdonmez - 40245310 <br>
 Azmi Abidi - 40248132 <br>
 Nektarios - 40211948 <br>
