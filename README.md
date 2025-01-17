@@ -13,7 +13,7 @@ You can install it following that link: https://nodejs.org/en
 Bulat Abdullin <br>
 Alimurat Dinchdonmez - 40245310 <br>
 Azmi Abidi - 40248132 <br>
-Nektarios<br>
+Nektarios - 40211948 <br>
 
 Joseph Aladas - 40156616 <br>
 Marc-Yves Malchev - 40265238 <br>
