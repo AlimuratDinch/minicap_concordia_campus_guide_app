@@ -39,7 +39,7 @@ docs/branch_and_commits_conventions
 ```
 ## Commit Messages
 ### Issue Numbering
-> **_NOTE:_**  You should just include the Issue Number in your Pull Request Commit Message.
+> **_NOTE:_**  You should just include the Issue Number in your last Commit Message.
 - Your commit message should first indicate the issue number starting with GH
 - If you want to link your commit message to the specific issue (which is mandotary), you should write GH-number_of_the_issue
 
