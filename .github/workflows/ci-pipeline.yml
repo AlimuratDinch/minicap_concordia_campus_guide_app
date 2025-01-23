@@ -1,0 +1,39 @@
+name: Lint, Test, Start Expo App
+
+on:
+  push:
+    branches:
+      # - main
+      # - develop
+      chore/yml-pipeline
+  pull_request:
+    branches:
+      # - main
+      # - develop
+      chore/yml-pipeline
+
+jobs:
+  lint-test-start:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '22.13.0'
+
+      - name: Install dependencies
+        run: npm install
+
+      # Possible typescript check
+      # - name: Check TypeScript
+      #   run: npm run type-check
+
+      - name: Lint code
+        run: npm run lint
+
+      - name: Run tests
+        run: npm run test
