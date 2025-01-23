@@ -3,14 +3,12 @@ name: Lint, Test, Start Expo App
 on:
   push:
     branches:
-      # - main
-      # - develop
-      chore/yml-pipeline
+      - main
+      - develop
   pull_request:
     branches:
-      # - main
-      # - develop
-      chore/yml-pipeline
+      - main
+      - develop
 
 jobs:
   lint-test-start:
