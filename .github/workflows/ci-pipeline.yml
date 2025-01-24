@@ -34,4 +34,13 @@ jobs:
         run: npm run lint
 
       - name: Run tests
-        run: npm run test
+        run: npm run test -- --coverage
+
+      - name: Upload coverage to Codecov
+        uses: codecov/codecov-action@v3
+        with:
+          token: ${{ secrets.CODECOV_TOKEN }}
+          files: ../../coverage/*.json # Replace this with the path to your coverage files
+          flags: unittests
+          fail_ci_if_error: true
+

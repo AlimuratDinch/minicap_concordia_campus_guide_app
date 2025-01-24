@@ -13,7 +13,10 @@
     "type-check": "tsc --noEmit"
   },
   "jest": {
-    "preset": "jest-expo"
+    "preset": "jest-expo",
+    "collectCoverage": true,
+    "coverageDirectory": "coverage",
+    "coverageReporters": ["json", "lcov", "text", "clover"]
   },
   "dependencies": {
     "@expo/vector-icons": "^14.0.2",
