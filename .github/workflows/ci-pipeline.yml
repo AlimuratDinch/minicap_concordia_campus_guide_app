@@ -40,10 +40,11 @@ jobs:
         run: npm run test -- --coverage
 
       - name: Upload coverage to Codecov
+        working-directory: application
         uses: codecov/codecov-action@v3
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
-          files: application/coverage/*.json # Replace this with the path to your coverage files
+          files: coverage/*.json # Replace this with the path to your coverage files
           flags: unittests
           fail_ci_if_error: true
 
