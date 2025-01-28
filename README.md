@@ -7,7 +7,7 @@ You can install it following that link: https://nodejs.org/en
 ## Installation
 
 ### Chaning directory to the repo
-`cd minicap_concordia_campus_guide_app`
+`cd minicap_concordia_campus_guide_app/application`
 ### Changing the branch
 `git checkout develop`
 
